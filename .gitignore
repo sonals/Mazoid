@@ -1,0 +1,7 @@
+/gen
+/bin
+/lint.xml
+.classpath
+.project
+.settings
+
